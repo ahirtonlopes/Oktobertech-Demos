@@ -6,6 +6,8 @@ Este repositório contém o material apresentado durante a palestra **"Construin
 
 ## Demos Incluídas
 
+Link de drive com apresentação em slides: https://drive.google.com/drive/folders/1P-r8jDSP-fetKu106zSiuUn1vfsBNGHf?usp=sharing
+
 1. **Operações básicas em DL via Keras (Base Fashion MNIST)**  
    Implementação de uma rede neural básica para classificação de imagens de vestuário, usando o dataset Fashion MNIST. Este exemplo introduz os conceitos básicos de redes neurais e aprendizado supervisionado.
 
