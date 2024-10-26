@@ -48,7 +48,3 @@ Na palestra **"Construindo IA com Keras: Casos de Uso e Como Começar"**, explor
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com melhorias e sugestões.
-
----
-
-Este README oferece uma descrição clara das demos, instruções de execução e informações sobre a palestra no Oktobertech 2024.
